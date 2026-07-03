@@ -1,4 +1,4 @@
-fflask
+flask
 yfinance
 pandas
 requests
