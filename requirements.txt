@@ -1,5 +1,4 @@
-flask
+fflask
 yfinance
-pandas==1.5.3
-https://github.com/twopirllc/pandas-ta/archive/refs/heads/development.zip
+pandas
 requests
